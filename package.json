@@ -1,0 +1,31 @@
+{
+  "name": "popup-element",
+  "version": "1.0.0",
+  "description": "a virtual-dom popup/modal/dialog",
+  "main": "index.js",
+  "style": "style.css",
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethvincent/popup-element.git"
+  },
+  "keywords": [
+    "modal",
+    "dialog",
+    "popup",
+    "virtual-dom",
+    "dom",
+    "element"
+  ],
+  "author": "sethvincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethvincent/popup-element/issues"
+  },
+  "homepage": "https://github.com/sethvincent/popup-element#readme",
+  "dependencies": {
+    "component-emitter": "^1.2.0"
+  }
+}
